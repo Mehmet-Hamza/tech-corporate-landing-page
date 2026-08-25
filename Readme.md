@@ -25,4 +25,4 @@ Modern, şık ve tüm cihazlarla tam uyumlu (responsive) kurumsal web sitesi ön
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adiniz/skypulse-weather-app.git](https://github.com/kullanici-adiniz-weather-app.git)
+   git clone https://github.com/Mehmet-Hamza/tech-corporate-landing-page.git
